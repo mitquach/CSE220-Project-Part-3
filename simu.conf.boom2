@@ -159,8 +159,8 @@ Num               = 2
 Occ               = 1
 
 [BPredIssueX]
-#type              = "2level"
-type              = "2bit"
+type              = "2level"
+#type              = "2bit"
 addrShift         = 1
 #useDolc           = true
 bpred4Cycle       = 1 # bpred for cycle
